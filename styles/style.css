@@ -1,0 +1,63 @@
+body{
+    font-family: 'Manrope','Courier New', Courier, monospace;
+    max-width: 1150px;
+    display: ruby;
+    align-items: center;
+}
+
+.container-1{
+    max-width: 1150px;
+}
+.container-1-1{
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: -0.03em;
+    text-align: left;
+
+}
+.background-image{
+    background-image: url("../resourses/background-image-sofa.png");
+    background-repeat: no-repeat;
+    height: 500px;
+    display: flex;
+    align-items: flex-end;
+}
+.background-image p{
+    padding-bottom: 40px;
+    padding-left: 40px;
+    color: #FFFFFF;
+    max-width: 430px;
+}
+.container-2{
+    max-width: 1150px;
+    margin: 150px auto;
+}
+.container-2 button{
+    background-color: #AD1818;
+    color: #FFFFFF;
+    width: Hug (255px)px;
+    height: Hug (67px)px;
+    padding: 20px 40px 20px 40px;
+    border-radius: 5px;
+
+}
+.container-2 h2{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24.59px;
+    letter-spacing: -0.03em;
+    text-align: left;
+}
+.container-2 p{
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 61.47px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.container-2 button:hover{
+    cursor: pointer;
+}
